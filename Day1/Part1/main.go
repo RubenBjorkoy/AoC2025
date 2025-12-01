@@ -54,6 +54,7 @@ func rotateDial(instruction string, current int) int {
 	return current
 }
 
+
 // func readFile(FileName string) [fileLength]string {
 // 	file, err := os.Open(FileName)
 // 	defer file.Close()
